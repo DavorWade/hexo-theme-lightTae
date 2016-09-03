@@ -1,13 +1,13 @@
 # hexo-theme-lightTae
 
-Hexo theme based on Light. 
+Hexo theme based on Light. I will update it from time to time. You can see the style on this [Demo]().
 
 ## Install
 
 Execute the following command and modify `theme` in `_config.yml` to `lightTae`.
 
 ```
-git clone https://github.com/hexojs/hexo-theme-light.git themes/lightTae
+git clone https://github.com/DavorWade/hexo-theme-lightTae.git themes/lightTae
 ```
 
 ## Update
@@ -25,14 +25,14 @@ Default config:
 
 ``` yaml
 menu:
-  Home: /
-  Archives: /archives
+  Home:
+  Archives: archives
+  About: about
 
 widgets:
 - search
 - category
-- tag
-- twitter
+- tagcloud
 
 excerpt_link: Read More
 
@@ -52,7 +52,15 @@ addthis:
 fancybox: true
 
 google_analytics:
-rss:
+rss: /atom.xml
+
+comment_provider: disqus
+# Facebook comment
+facebook:
+  appid: 123456789012345
+  comment_count: 5
+  comment_width: 840
+  comment_colorscheme: light
 ```
 
 - **menu** - Main navigation menu
@@ -75,40 +83,8 @@ rss:
 
 ## Features
 
-### Gallery Post
-
-![](http://i.minus.com/ibp6Hbytwgof9y.jpg)
-
-```
----
-layout: photo
-title: Gallery Post
-photos:
-- http://i.minus.com/ibobbTlfxZgITW.jpg
-- http://i.minus.com/iedpg90Y0exFS.jpg
----
-```
-
-### Link Post
-
-![](http://i.minus.com/i7hBbGqh14EWo.png)
-
-```
----
-layout: link
-title: Link Post
-link: http://www.google.com/
----
-```
-
-### Tweet Widget
-
-![](http://i.minus.com/iMC8EyF9y0Y3y.PNG)
-
-### Fancybox
-
-![](http://i.minus.com/iHv7h7rZNqHvo.PNG)
-
-[Hexo]: http://zespia.tw/hexo/
-[AddThis]: https://www.addthis.com
-[Fancybox]: http://fancyapps.com/fancybox/
+1. Change quote style.
+2. Add pagnition of Archives, Categories and Tags.
+3. Add "fork me on Github".
+4. Add "About" page.
+5. 
