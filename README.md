@@ -1,6 +1,6 @@
 # hexo-theme-lightTae
 
-Hexo theme based on Light. I will update it from time to time. You can see the style on this [Demo]().
+Hexo theme based on Light. I will update it from time to time. You can see the style on my [blog](https://davorwade.github.io/).
 
 ## Install
 
@@ -87,4 +87,4 @@ facebook:
 2. Add pagnition of Archives, Categories and Tags.
 3. Add "fork me on Github".
 4. Add "About" page.
-5. 
+5. Modify comment from facebook to disqus.
