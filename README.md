@@ -7,8 +7,7 @@ Hexo theme based on [Light](https://hexo.io/hexo-theme-light/). I will update it
 1. Change quote style.
 2. Add pagnition of Archives, Categories and Tags.
 3. Add "fork me on Github".
-4. Add "About" page.
-5. Modify comment from facebook to disqus.
+4. Modify comment from facebook to disqus.
 
 ## Install
 
