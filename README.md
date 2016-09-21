@@ -1,6 +1,13 @@
 # hexo-theme-lightTae
 
-Hexo theme based on Light. I will update it from time to time. You can see the style on my [blog](https://davorwade.github.io/).
+Hexo theme based on [Light](https://hexo.io/hexo-theme-light/). I will update it from time to time. You can view the style from my [blog](https://davorwade.github.io/).
+
+## Features
+
+1. Change quote style.
+2. Add pagnition of Archives, Categories and Tags.
+3. Add "fork me on Github".
+4. Modify comment from facebook to disqus.
 
 ## Install
 
@@ -80,11 +87,3 @@ facebook:
 - **fancybox** - Enable [Fancybox]
 - **google_analytics** - Google Analytics ID
 - **rss** - RSS subscription link (change if using Feedburner)
-
-## Features
-
-1. Change quote style.
-2. Add pagnition of Archives, Categories and Tags.
-3. Add "fork me on Github".
-4. Add "About" page.
-5. Modify comment from facebook to disqus.
