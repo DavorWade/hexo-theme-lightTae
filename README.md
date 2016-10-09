@@ -1,6 +1,6 @@
 # hexo-theme-lightTae
 
-Hexo theme based on [Light](https://hexo.io/hexo-theme-light/). I will update it from time to time. You can view the style from my [blog](https://davorwade.github.io/).
+Hexo theme based on [Light](https://hexo.io/hexo-theme-light/). I will update it from time to time. [Demo](https://davorwade.github.io/).
 
 ## Features
 
